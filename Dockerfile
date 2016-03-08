@@ -1,7 +1,7 @@
 # source is CentOS7
 FROM centos:centos7
 
-MAINTAINER Studio-REM <rem@s-rem.jp>
+MAINTAINER Luke You <xigyou@gmail.com>
 
 #----------------------------------------------------------
 # 基本設定
